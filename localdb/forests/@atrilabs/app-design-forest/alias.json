@@ -1,0 +1,14 @@
+{
+  "Div": 40,
+  "Flex": 229,
+  "Menu": 1,
+  "Image": 115,
+  "TextBox": 180,
+  "Button": 25,
+  "Rating": 2,
+  "Modal": 2,
+  "Cascader": 1,
+  "Icon": 6,
+  "Carousel": 2,
+  "Input": 15
+}
